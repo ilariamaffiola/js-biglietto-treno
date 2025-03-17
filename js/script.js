@@ -5,15 +5,6 @@ let chilometri = parseInt(prompt('Inserisci il numero di chilometri che desideri
 let etaPasseggero = parseInt(prompt('Inserisci l\'età del passeggero'));
 //calcolare il prezzo base
 let prezzoBase;
-let sconto;;
-
-
-
-//calcolare lo sconto
-
-
-
-
-
-
-//calcolare il prezzo finale
+let sconto;
+prezzoBase = chilometri * 0.21;
+sconto = 0;
