@@ -9,3 +9,13 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
+
+problema biglietto del treno:
+-chiedere all'utente il numero di chilometri che desidera percorrere;
+-chiedere l'età del passeggero;
+-Calcolare il prezzo base;
+-Calcolare lo sconto:
+    -se il passeggero è minorenne applicare lo sconto del 20%;
+    -se il passeggero ha un'età compresa dal 18 ai 64 anni non applicare nessuno sconto;
+    -se ha un'età uguale o superiore ai 65 anni, applicare lo sconto del 40%;
+-calcolare il prezzo totale del viaggio;
