@@ -19,3 +19,8 @@ problema biglietto del treno:
     -se il passeggero ha un'età compresa dal 18 ai 64 anni non applicare nessuno sconto;
     -se ha un'età uguale o superiore ai 65 anni, applicare lo sconto del 40%;
 -calcolare il prezzo totale del viaggio;
+
+
+
+
+ESERCIZIO FINITO
