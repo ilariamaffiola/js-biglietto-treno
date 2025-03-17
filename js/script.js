@@ -15,3 +15,6 @@ if(etaPasseggero < 18){
 else if(etaPasseggero >= 65){
     sconto = prezzoBase * 0.4;
 }
+//calcolare il prezzo finale
+let prezzoFinale = prezzoBase - sconto;
+prezzoFinale = prezzoFinale.toFixed(2);
