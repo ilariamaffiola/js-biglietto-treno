@@ -8,3 +8,10 @@ let prezzoBase;
 let sconto;
 prezzoBase = chilometri * 0.21;
 sconto = 0;
+//calcolare lo sconto
+if(etaPasseggero < 18){
+    sconto = prezzoBase * 0.2;
+}
+else if(etaPasseggero >= 65){
+    sconto = prezzoBase * 0.4;
+}
