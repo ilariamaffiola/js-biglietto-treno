@@ -18,3 +18,6 @@ else if(etaPasseggero >= 65){
 //calcolare il prezzo finale
 let prezzoFinale = prezzoBase - sconto;
 prezzoFinale = prezzoFinale.toFixed(2);
+//output
+alert(`Il prezzo del biglietto è : € ${prezzoFinale}`);
+console.log(`Il prezzo del biglietto è : € ${prezzoFinale}`);
